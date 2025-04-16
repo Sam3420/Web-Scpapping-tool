@@ -14,21 +14,23 @@ A powerful Python tool that scrapes websites, extracts key information, and gene
 
 1. Clone the repository:
    ```bash
-  - git clone https://github.com/yourusername/web-scraper-summarizer.git
+   git clone https://github.com/yourusername/web-scraper-summarizer.git
+    
 2. Navigate inside the web-scrapper-summarizer folder:
-  ```bash
-  - cd web-scraper-summarizer
+   cd web-scraper-summarizer
+    
 3.Install the requirements:
-   ```bash
-  - pip install -r requirements.txt
+   pip install -r requirements.txt
+    
 4.Create a .env file in the same folder web-scrapper-summarizer using these commands:
-    ```bash
-    - touch .env
+     touch .env
+    
   -(content of .env file):
     GROQ_API_KEY=your_actual_key_here
+    
 5.Finally run the webSrcapper.py using :
-  ```bash
     python run webScrapper.py
+    
 6. Enter the desired link of the website and hit "enter"
 ## 🎉 Hurray! You've Got the Data!
 
