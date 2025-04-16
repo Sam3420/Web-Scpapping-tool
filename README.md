@@ -25,14 +25,14 @@ A powerful Python tool that scrapes websites, extracts key information, and gene
    pip install -r requirements.txt
     
 4.Create a .env file in the same folder web-scrapper-summarizer using these commands:
-  ```bash
+  
      touch .env
     
   -(content of .env file):
     GROQ_API_KEY=your_actual_key_here
     
 5.Finally run the webSrcapper.py using :
-  ```bash
+  
     python run webScrapper.py
     
 6. Enter the desired link of the website and hit "enter"
