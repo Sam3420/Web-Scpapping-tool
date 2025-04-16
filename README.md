@@ -21,7 +21,6 @@ A powerful Python tool that scrapes websites, extracts key information, and gene
    cd web-scraper-summarizer
     
 3.Install the requirements:
-  ```bash
    pip install -r requirements.txt
     
 4.Create a .env file in the same folder web-scrapper-summarizer using these commands:
