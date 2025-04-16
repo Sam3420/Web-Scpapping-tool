@@ -115,5 +115,5 @@ def run_scraper_and_summarizer(start_url):
 
 # Example Usage
 if __name__ == "__main__":
-    url = "https://python.langchain.com/docs/tutorials/"  
+    url = input("enter the link of website you want to scrape: ")  
     run_scraper_and_summarizer(url)
