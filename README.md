@@ -39,8 +39,10 @@ A powerful Python tool that scrapes websites, extracts key information, and gene
 ## 🎉 Hurray! You've Got the Data!
 
 Limitations:
-1.Dynamic Website Content
+
+1.Dynamic Website Content 
 ❌ Doesn't work with: javascript rendered content
+
 2.Anti-Scraping Protections
 🛑 May fail when:
 -Websites block bots (Cloudflare, Distil Networks)
