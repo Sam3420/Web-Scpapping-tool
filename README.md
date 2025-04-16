@@ -21,13 +21,14 @@ A powerful Python tool that scrapes websites, extracts key information, and gene
    cd web-scraper-summarizer
     
 3.Install the requirements:
+
    pip install -r requirements.txt
     
 4.Create a .env file in the same folder web-scrapper-summarizer using these commands:
   
      touch .env
     
-  -(content of .env file):
+  (content of .env file):
     GROQ_API_KEY=your_actual_key_here
     
 5.Finally run the webSrcapper.py using :
@@ -37,7 +38,7 @@ A powerful Python tool that scrapes websites, extracts key information, and gene
 6. Enter the desired link of the website and hit "enter"
 ## 🎉 Hurray! You've Got the Data!
 
-##Limitations:
+Limitations:
 1.Dynamic Website Content
 ❌ Doesn't work with: javascript rendered content
 2.Anti-Scraping Protections
