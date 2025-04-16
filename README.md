@@ -17,6 +17,7 @@ A powerful Python tool that scrapes websites, extracts key information, and gene
    git clone https://github.com/yourusername/web-scraper-summarizer.git
     
 2. Navigate inside the web-scrapper-summarizer folder:
+   ```bash
    cd web-scraper-summarizer
     
 3.Install the requirements:
